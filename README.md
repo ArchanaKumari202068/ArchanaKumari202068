@@ -33,7 +33,7 @@ I am a student currently studying B.Tech, Computer Science(2024) in Central Univ
 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23F7931E.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)
 
 #### Databases
 
