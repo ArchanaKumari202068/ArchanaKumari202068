@@ -11,6 +11,9 @@ I am a student currently studying B.Tech, Computer Science(2024) in Central Univ
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=archanakumari202068@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/archana-kumari-66a233239/)
 
+
+## ✨**Technical Skills**
+
 #### Web Develpment
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -49,4 +52,4 @@ I am a student currently studying B.Tech, Computer Science(2024) in Central Univ
 
 ### **📈GitHub Stats**
 
-[![Hari's github stats](https://github-readme-stats.vercel.app/api?username=archanakumari202068&show_icons=true)](https://github.com/hari4742)
+[![Archana github stats](https://github-readme-stats.vercel.app/api?username=archanakumari202068&show_icons=true)](https://github.com/hari4742)
