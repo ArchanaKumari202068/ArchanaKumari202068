@@ -57,6 +57,10 @@ I am a student currently studying B.Tech, Computer Science(2024) in Central Univ
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 
+### 🧑‍💻 Developer/Forums
+![![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/archu0943)
+![![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Archana0943/)
+
 ### **📈GitHub Stats**
 
 [![Archana github stats](https://github-readme-stats.vercel.app/api?username=archanakumari202068&show_icons=true)](https://github.com/archanakumari202068)
