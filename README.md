@@ -53,3 +53,7 @@ I am a student currently studying B.Tech, Computer Science(2024) in Central Univ
 ### **📈GitHub Stats**
 
 [![Archana github stats](https://github-readme-stats.vercel.app/api?username=archanakumari202068&show_icons=true)](https://github.com/archanakumari202068)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archanakumari202068&layout=compact&langs_count=10&hide=jupyter%20notebook)](https://github.com/archanakumari202068)
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=archanakumari202068.visitor-badge)
