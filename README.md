@@ -2,6 +2,8 @@
         Hi there, I'm <span style="font-family:cursive;font-weight:900;">Archana👋</span>
 </h2>
 
+![github_banner](https://user-images.githubusercontent.com/91273746/236131054-20a49bd4-b29e-4fb9-a83e-329a8dc2e7d3.png)
+
 <p style="text-align:justify;">
 I am a student currently studying B.Tech, Computer Science(2024) in Central University of Haryana. I like exploring techonologies and help the mankind to make better lives.
 </p>
